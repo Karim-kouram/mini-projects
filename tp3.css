@@ -1,0 +1,19 @@
+header{
+    background-color: rgba(0, 0, 0, 0.909);
+    display:flex;
+    height: 12vh;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.g{
+    height: 15vh;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+}

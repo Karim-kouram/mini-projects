@@ -1,0 +1,51 @@
+h1{
+    font-family: cursive;
+    color: deeppink;
+}
+header{
+    display:flex;
+    border: 4px solid deeppink;
+    border-radius: 6px;
+}
+h3{
+    font-family: cursive;
+    
+}
+body{
+    background-color:gainsboro;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content:space-around;
+    margin-left: 0%;
+    margin-right: 40%;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+nav{
+    border:4px solid deeppink;
+    margin-top: 5%;
+    background-image: linear-gradient(to right,black,rgb(0, 86, 139),rgba(0, 234, 255, 0.758));
+    border-radius: 6px;
+}
+section{
+    border:4px solid deeppink;
+    margin-top: 5%;
+    background-image: linear-gradient(to right,black,rgb(0, 86, 139),rgba(0, 234, 255, 0.758));
+    border-radius: 6px;
+}
+span{
+    color: blue;
+}
+h2{
+    color: deeppink;
+}
+p{
+    color: white;
+    font-family: cursive;
+}

@@ -1,0 +1,22 @@
+.w{
+    background-color:darkcyan;
+}
+tr td{
+    background-color:darkturquoise;
+}
+tr th{
+    background-color: gray;
+}
+.e{
+    background-color: greenyellow;
+}
+.r{
+    background-color: bisque;
+}
+.q:hover{
+    background-color:mediumvioletred;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
